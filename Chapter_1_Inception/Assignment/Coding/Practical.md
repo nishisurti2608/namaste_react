@@ -15,15 +15,15 @@
   - Using `React` - use `CDN Links`
     (https://github.com/nishisurti2608/namaste_react/tree/master/Chapter_1_Inception/Part_2_React_CDN)
 
-        - Create `an Element`
+    - Create `an Element`
 
     (https://github.com/nishisurti2608/namaste_react/tree/master/Chapter_1_Inception/Part_3_React_Methods)
 
-        - Create `nested React Elements`
+    - Create `nested React Elements`
 
     (https://github.com/nishisurti2608/namaste_react/tree/master/Chapter_1_Inception/Part_5_Creating_Nested_HTML_Element)
 
-        - Use `root.render`
+    - Use `root.render`
 
 - `Push code to Github` (Theory as well as code)
 
