@@ -26,6 +26,8 @@ The name `React` was chosen because the library was designed to allow developers
 The `crossorigin` attribute sets the mode of the request to an HTTP CORS Request.
 The purpose of crossorigin attribute is used to share the resources from one domain to another domain. Basically, it is used to handle the CORS request. It is used to handle the CORS request that checks whether it is safe to allow for sharing the resources from other domains.
 
+Youtube Link : (https://www.youtube.com/watch?v=tcLW5d0KAYE)
+
 ### _Syntax_
 
 ```sh
@@ -67,7 +69,7 @@ Unless you're supporting ancient legacy systems, always add `type="module"` to a
 ```
 
 ```sh
- <script defer nomodule> can be used as a legacy fallback.
+ <script defer nomodule > can be used as a legacy fallback.
 ```
 
 As the name suggests, it allows you to import `modules`, which makes it easier to organize your code.
