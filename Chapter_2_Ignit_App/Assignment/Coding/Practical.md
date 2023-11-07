@@ -6,7 +6,7 @@
   - `remove CDN links` of `react` : Open Index.html > Remove both CDN links
   - `install parcel` : Open Terminal > Go to your Project Folder > npm i parcel
   - `ignite your app` with `parcel` > Open Terminal > Go to your Project Folder > npx parcel index.html
-  - `add scripts` for `“start”` and `“build”` with `parcel commands`: Open package.json >remove "main":"App.js" and add "start": "parcel ./index.html", "build": "parcel build ./index.html"
+  - `add scripts` for `“start”` and `“build”` with `parcel commands`: Open package.json >remove "main":"App.js", add : "type": "module",( after "version": 1.0.0) and add "start": "parcel ./index.html", "build": "parcel build ./index.html"
   - add `.gitignore` file : create .gitignore at root level and add > /node_modules
   - add `browserlists` : Open package.json > "browserslist":[
     "last 2 Chrome version"
