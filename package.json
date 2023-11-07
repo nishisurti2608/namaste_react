@@ -1,0 +1,33 @@
+{
+  "name": "namaste-_react",
+  "version": "1.0.0",
+  "description": "Namaste React",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./index.html --port 8989",
+    "build": "parcel build ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishisurti2608/namaste_react.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Nishi Surti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishisurti2608/namaste_react/issues"
+  },
+  "homepage": "https://github.com/nishisurti2608/namaste_react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 2 Chrome version"
+    ]
+}
