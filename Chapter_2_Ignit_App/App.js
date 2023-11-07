@@ -10,7 +10,7 @@ const parent = React.createElement(
     //wrapping in Array Data Structure
     [
       React.createElement("h1", {}, "I'm inside child tag"),
-      React.createElement("h2", {}, "I'm another child"),
+      React.createElement("h3", {}, "I'm another child"),
     ]
   )
 );
